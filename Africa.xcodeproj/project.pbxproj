@@ -32,6 +32,7 @@
 		4BDB4A5D2B330846001DE843 /* InsetFactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDB4A5C2B330846001DE843 /* InsetFactView.swift */; };
 		4BDB4A5F2B330A7E001DE843 /* InsetMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDB4A5E2B330A7E001DE843 /* InsetMapView.swift */; };
 		4BDB4A612B331119001DE843 /* ExternalWeblinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDB4A602B331119001DE843 /* ExternalWeblinkView.swift */; };
+		4BDB4A632B3317EF001DE843 /* VideoListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDB4A622B3317EF001DE843 /* VideoListItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +73,7 @@
 		4BDB4A5C2B330846001DE843 /* InsetFactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetFactView.swift; sourceTree = "<group>"; };
 		4BDB4A5E2B330A7E001DE843 /* InsetMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetMapView.swift; sourceTree = "<group>"; };
 		4BDB4A602B331119001DE843 /* ExternalWeblinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExternalWeblinkView.swift; sourceTree = "<group>"; };
+		4BDB4A622B3317EF001DE843 /* VideoListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +179,7 @@
 				4BDB4A5C2B330846001DE843 /* InsetFactView.swift */,
 				4BDB4A5E2B330A7E001DE843 /* InsetMapView.swift */,
 				4BDB4A602B331119001DE843 /* ExternalWeblinkView.swift */,
+				4BDB4A622B3317EF001DE843 /* VideoListItemView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 				4BA0A3BA2B2EE2E200C9FB59 /* VideoListView.swift in Sources */,
 				4BDB4A532B32D27C001DE843 /* CodableBundleExtension.swift in Sources */,
 				4BA0A3CA2B2F1DFB00C9FB59 /* LocationModel.swift in Sources */,
+				4BDB4A632B3317EF001DE843 /* VideoListItemView.swift in Sources */,
 				4BA0A3BE2B2EE2FF00C9FB59 /* GalleryView.swift in Sources */,
 				4BA0A3CC2B2F1E0900C9FB59 /* VideoModel.swift in Sources */,
 				4BDB4A552B32D7E4001DE843 /* AnimalListItemView.swift in Sources */,

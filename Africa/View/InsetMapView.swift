@@ -17,20 +17,20 @@ struct InsetMapView: View {
                     MapView()
                 }, label: {
                     HStack {
-                      Image(systemName: "mappin.circle")
-                        .foregroundColor(Color.white)
-                        .imageScale(.large)
-                      
-                      Text("Locations")
-                        .foregroundColor(.accentColor)
-                        .fontWeight(.bold)
+                        Image(systemName: "mappin.circle")
+                            .foregroundColor(Color.white)
+                            .imageScale(.large)
+                        
+                        Text("Locations")
+                            .foregroundColor(.accentColor)
+                            .fontWeight(.bold)
                     } //: HSTACK
                     .padding(.vertical, 10)
                     .padding(.horizontal, 14)
                     .background(
-                      Color.black
-                        .opacity(0.4)
-                        .cornerRadius(8)
+                        Color.black
+                            .opacity(0.4)
+                            .cornerRadius(8)
                     )
                 })
                 ,alignment: .topTrailing
